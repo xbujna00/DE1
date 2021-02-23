@@ -31,6 +31,12 @@
 
 ![Kmap1](mapa.png)
 
+**rovnica:**
+
+fB<A = (B1xB0xA1xA0)+(B1xB̅0xA1xA0)+(B1xB̅0xA1xĀ0)+(B̅1xB0xA1xA0)
+      +(B̅1xB0xA1xĀ0)+(B̅1xB0xĀ1xA0)+(B̅1xB̅0xA1xA0)+(B̅1xB̅0xA1xĀ0)+(B̅1xB̅0xĀ1xA0)+(B̅1xB̅0xĀ1xĀ0)  
+
+
 ### The K-map for the "less" function is as follows:
 
 
