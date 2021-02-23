@@ -49,6 +49,10 @@
 
 ![Kmap2](mapa2.png)
 
+**rovnica:**
+
+(B1*Ā1)+(B1xB0*Ā0)+(B0*Ā1*Ā0)
+
 ### 4-bit Comparator
 #### CODE of design.vhdl
 ```vhdl
