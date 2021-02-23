@@ -35,6 +35,13 @@
 
 fB<A = (B1xB0xA1xA0)+(B1xB̅0xA1xA0)+(B1xB̅0xA1xĀ0)+(B̅1xB0xA1xA0)
       +(B̅1xB0xA1xĀ0)+(B̅1xB0xĀ1xA0)+(B̅1xB̅0xA1xA0)+(B̅1xB̅0xA1xĀ0)+(B̅1xB̅0xĀ1xA0)+(B̅1xB̅0xĀ1xĀ0)  
+      
+      
+fB=A = (B̅1xB̅0xĀ1xĀ0)+(B̅1xB0xĀ1xA)+(B1xB̅0xA1xĀ0)+(B1xB0xA1xA0)
+
+
+
+fb>A = (B̅1xBxĀ1xĀ0)+(B1xB̅0xĀ1xĀ0)+(B1xB̅0xĀ1*A0)+(B1xB0xA1xĀ0)+(B1xB0xĀ1xA0)+(B1xB0xA1xA0)
 
 
 ### The K-map for the "less" function is as follows:
