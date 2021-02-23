@@ -193,4 +193,7 @@ end architecture testbench;
 
 ![alt text](console.png)
 
+###### EDA: 
+https://www.edaplayground.com/x/8Ubf
+
 
