@@ -185,5 +185,5 @@ begin
     end process p_stimulus;
 
 end architecture testbench;
-![ERROR] (console.png)
+```vhdl
 
