@@ -21,4 +21,4 @@
 
 ### The K-map for the "equals" function is as follows:
 
-![Kmap1](Images/1.png)
+![Kmap1](mapa.png)
