@@ -23,6 +23,6 @@
 
 ![Kmap1](mapa.png)
 
-### The K-map for the "grater" function is as follows:
+### The K-map for the "less" function is as follows:
 
 ![Kmap2](mapa1.png)
