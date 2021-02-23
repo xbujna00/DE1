@@ -33,6 +33,7 @@
 
 ### The K-map for the "less" function is as follows:
 
+
 ![Kmap2](mapa1.png)
 
 
