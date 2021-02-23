@@ -28,7 +28,7 @@
 ![Kmap2](mapa1.png)
 
 
-** rovnica: **
+**rovnica:**
  
 *  (B̅1+A1)*(B̅0+A1)*(B̅1+B̅0)*(A1+A0)*(B̅1+A0) * 
 
