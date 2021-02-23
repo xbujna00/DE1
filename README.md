@@ -185,6 +185,5 @@ begin
     end process p_stimulus;
 
 end architecture testbench;
-
-(console.png)
+![ERROR](console.png)
 
