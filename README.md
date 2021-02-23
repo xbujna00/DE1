@@ -1,4 +1,4 @@
-![alt text](console.png)
+
 # 02-logic
 | **Dec. equivalent** | **B[1:0]** | **A[1:0]** | **B is greater than A** | **B equals A** | **B is less than A** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -186,5 +186,10 @@ begin
     end process p_stimulus;
 
 end architecture testbench;
+```
+
+
+
+![alt text](console.png)
 
 
