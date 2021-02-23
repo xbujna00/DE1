@@ -27,6 +27,9 @@
 
 ![Kmap2](mapa1.png)
 
+(B̅1+A1)*(B̅0+A1)*(B̅1+B̅0)*(A1*A0)*(B̅1+A0)
+
+
 
 ### The K-map for the "less" function is as follows:
 
