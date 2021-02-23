@@ -47,8 +47,8 @@
 
 ![Kmap2](mapa2.png)
 
-
-### CODE of design.vhdl
+### 4-bit Comparator
+#### CODE of design.vhdl
 ```
 library ieee;
 use ieee.std_logic_1164.all;
