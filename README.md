@@ -189,6 +189,7 @@ end architecture testbench;
 ```
 
 
+##### Console test
 
 ![alt text](console.png)
 
