@@ -22,3 +22,7 @@
 ### The K-map for the "equals" function is as follows:
 
 ![Kmap1](mapa.png)
+
+### The K-map for the "grater" function is as follows:
+
+![Kmap2](mapa1.png)
